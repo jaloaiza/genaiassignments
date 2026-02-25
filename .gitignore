@@ -2,14 +2,14 @@
 # Unity Generated Folders
 ##############################################
 
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-UserSettings/
-MemoryCaptures/
+assignments/05/LlamaUnity/LlamaUnity/[Ll]ibrary/
+assignments/05/LlamaUnity/LlamaUnity/[Tt]emp/
+assignments/05/LlamaUnity/LlamaUnity/[Oo]bj/
+assignments/05/LlamaUnity/LlamaUnity/[Bb]uild/
+assignments/05/LlamaUnity/LlamaUnity/[Bb]uilds/
+assignments/05/LlamaUnity/LlamaUnity/[Ll]ogs/
+assignments/05/LlamaUnity/LlamaUnity/UserSettings/
+assignments/05/LlamaUnity/LlamaUnity/MemoryCaptures/
 
 ##############################################
 # Unity Auto-generated Files
@@ -100,3 +100,17 @@ TestResults/
 
 .idea/
 *.DotSettings.user
+
+# AI Models
+*.gguf
+*.bin
+*.safetensors
+Assets/StreamingAssets/Models/
+
+# LLama native runtime (optional, can regenerate via NuGet)
+Assets/Plugins/win-x64/
+
+# NuGet packages
+assignments/05/LlamaUnity/LlamaUnity/Assets/NuGet/
+assignments/05/LlamaUnity/LlamaUnity/Assets/Packages/NuGet/
+
